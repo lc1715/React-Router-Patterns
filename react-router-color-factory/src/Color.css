@@ -1,0 +1,6 @@
+.ColorPage{
+    height: 100vmax;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
